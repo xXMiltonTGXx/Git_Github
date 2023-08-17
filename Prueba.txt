@@ -6,6 +6,6 @@ Espero que tengas un excelente dia
 
 Mi nombre es Milton disfruta el curso
 
-la fecha es 2023
+la fecha es 2023.
 
 modificamos usuario y contraseña
