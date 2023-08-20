@@ -16,4 +16,4 @@ git show agregado
 
 Prueba con git ssh
 
-
+editando de manera local
